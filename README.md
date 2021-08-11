@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/_MikeArmando_
 [instagram]: https://www.instagram.com/_mikearmando_/
-[linkedin]: https://www.linkedin.com/in/mike-armando-3369b3211/https://www.linkedin.com/in/mike-armando-3369b3211/
+[linkedin]: https://www.linkedin.com/in/mike-armando-3369b3211/
