@@ -1,5 +1,5 @@
 # Hey ☕
-- 👀 I’m interested in Web Development
+- 👀 interested in Web Development
 - ⚒ Learning Front-end Development
 
 ### Connect with me:
