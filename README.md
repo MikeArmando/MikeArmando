@@ -1,5 +1,6 @@
 # Hey ☕
 - 👀 I’m interested in Web Development
+- ⚒ Learning Front-end Development
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>][instagram]
