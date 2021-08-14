@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikeArmando
+- 👋 Hey
 - 👀 I’m interested in Web Development
 
 ### Connect with me:
