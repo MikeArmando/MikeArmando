@@ -4,8 +4,6 @@ Learning Front-end Development
 
 ### Me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-
 <br/>
 
 ### Skills:
