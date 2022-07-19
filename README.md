@@ -10,4 +10,3 @@ I'm posting my projects that i work on and the changes that i make to them here 
 - HTML
 - CSS
 - Javascript
-- C#
