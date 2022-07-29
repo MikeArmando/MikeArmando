@@ -1,4 +1,4 @@
-## Hey ☕
+## Hey
 
 Learning Front-end Development. 
 <br> <br>
