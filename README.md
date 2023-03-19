@@ -1,6 +1,6 @@
-# Front-end Development. 
+# Web Development. 
 <br> <br>
-I'm a student that is learning front-end development.
+I'm a student that is learning Web development.
 <br>
 Posting my projects that i work on here.
 
