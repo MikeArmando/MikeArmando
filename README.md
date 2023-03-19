@@ -1,10 +1,12 @@
-Learning Front-end Development. 
+# Front-end Development. 
 <br> <br>
-I'm posting my projects that i work on here. <br> The projects are mainly for practice reasons.
+I'm a student that is learning front-end development.
+<br>
+Posting my projects that i work on here.
 
 <br>
 
-## Studying
+## Languages and tools
 - HTML
 - CSS
 - Javascript
