@@ -2,7 +2,10 @@
 <br> <br>
 I'm a student that is learning Web development.
 <br>
-Posting my projects that i work on here.
+I like to build things idk.
+<br>
+I'm posting my projects that i work on here.
+
 
 <br>
 
