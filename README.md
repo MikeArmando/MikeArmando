@@ -1,5 +1,7 @@
 # Web Development. 
-<br> <br>
-I'm a student that is learning Web development.
 <br>
-I'm posting the projects that i work on here.
+My name is Mike Armando, im a student who has a passion for programming.
+<br>
+I started learning programming by my self at first, then i eventually started studying it at school. 
+<br>
+Right now my goal is to become a web developer.
